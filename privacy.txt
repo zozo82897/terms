@@ -1,4 +1,17 @@
-Privacy Policy
+Impressum & Datenschutz
+Service provider
+David Ian Black
+42 Darrell Pl, San Francisco, CA 94133, USA
+
+
+Contact options
+Email address: reedrouxmusic@gmx.net
+
+Telephone: ///////
+
+Further contact options: TwoDawg (Discord)
+
+
 Your privacy is important to us. It is  Reedroux's policy to respect your privacy regarding any information we may collect from you across our website or Discord bot,https://reedrouxmusic.vercel.app/, and other sites we own and operate.
 
 Information we collect
@@ -44,6 +57,16 @@ The Data concerning the User is collected to allow the Owner to provide its Serv
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
+Pay
+We use third-party services to enable payment processes (so-called “Merchant of Records”).
+
+We do not store any payment information ourselves. The data is provided to us by our service providers, who in turn manage their data through their own privacy policy.
+
+Paddle: https://paddle.com/privacy/
+Links to external websites
+Our Services may contain links to external websites that are not operated by us.
+
+We have no control over the content or the privacy policy and therefore we assume no responsibility in this regard.
 
 Changes to this privacy policy
 
@@ -52,13 +75,10 @@ The Owner reserves the right to make changes to this privacy policy at any time 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
 
 
-Owner and Data Controller 
-David Ian Black 
-42 Darrell Pl, San Francisco, CA 94133, USA
-Phone: /
-E-Mail: reedrouxmusic@gmx.net
+
 
 
 
 
 This policy is effective as  of July 20, 2023.
+
